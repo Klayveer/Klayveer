@@ -1,6 +1,6 @@
 ### Olá, Eu sou Klayveer Silva
 
-- 👨🏽‍💻 Sou um desenvolvedor Front-End
+- 👨🏽‍💻 Sou um desenvolvedor Junior
 - 📚 Cursando superior em Engenharia da Computação (UNIJORGE)
 - 💫 Explorando as novas tecnologias e desenvolvendo soluções em Hardware e Software
 
