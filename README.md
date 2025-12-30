@@ -1,32 +1,64 @@
-### Olá, Eu sou Klayveer Silva
+# Klayveer Silva
+### Engenheiro da Computação em Formação | Desenvolvedor Full Stack & IoT
 
-- 👨🏽‍💻 Sou um desenvolvedor Junior
-- 📚 Cursando superior em Engenharia da Computação (UNIJORGE)
-- 💫 Explorando as novas tecnologias e desenvolvendo soluções em Hardware e Software
+<p align="left">
+  <a href="https://www.linkedin.com/in/klayveer" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:silvaklayveer@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-Conecte-se comigo:
+---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klayveer-silva-48a7ab203/) 
-<a href = "mailto:silvaklayveer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### 📄 Sobre Mim
 
-Idiomas e ferramentas:
+Sou estudante de Engenharia da Computação com foco na interseção entre **Software e Hardware**. Atualmente atuo como **Estagiário de Engenharia na Ledax Energia Inteligente**, onde desenvolvo soluções para **Eletromobilidade (Carregadores EV)** e monitoramento de energia.
 
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="GO" height="30" width="40" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg">
-</div> <br>
+Minha experiência profissional combina o desenvolvimento de plataformas web robustas com a engenharia de dispositivos físicos (IoT/Firmware).
 
-Estatísticas do GitHub:
+**Focos de Atuação:**
+* 🚀 **Full Stack Web:** React.js, Python (Django/Flask), APIs RESTful.
+* ⚡ **Hardware & IoT:** Firmware, Integração Serial, Microcontroladores (C/C++).
+* 🛠️ **Projetos:** Modelagem 3D (Fusion 360) e Automação.
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Klayveer" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Klayveer" height="150" alt="languages graph"  />
-</div> <br>
+---
 
-Contador de visitas no perfil:
+### 🛠️ Tecnologias e Ferramentas
 
-  <img src="https://profile-counter.glitch.me/klayveer/count.svg" alt="Número de visitantes no perfil" />
+**Linguagens**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+</p>
+
+**Frontend & Mobile**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+</p>
+
+**Engenharia & Dados**
+<p>
+  <img src="https://img.shields.io/badge/Fusion%20360-F5A742?style=flat&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 🏆 Destaques Acadêmicos
+* **Finalista - Olimpíada de Inovação do Agronegócio (2024):** Projeto *FarmTech*.
+* **Vencedor - Criativos da Escola (2020):** Projeto *Paper Clean* (Qualidade de Vida).
+
+---
+<p align="center">
+  <small>Open for opportunities in Software Engineering & Embedded Systems.</small>
+</p>
