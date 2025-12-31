@@ -14,7 +14,7 @@
 
 ### 📄 Sobre Mim
 
-Sou estudante de Engenharia da Computação com foco na interseção entre **Software e Hardware**. Atualmente atuo como **Estagiário de Engenharia na Ledax Energia Inteligente**, onde desenvolvo soluções para **Eletromobilidade (Carregadores EV)** e monitoramento de energia.
+Sou estudante de Engenharia da Computação com foco na interseção entre **Software e Hardware**. Atualmente atuo como **Estagiário de Desenvolvimento de Software na Ledax Energia**, onde desenvolvo soluções para **Eletromobilidade (Carregadores EV)** e Gestão de faturas de energia, monitoramento de energia, água, gás e inversores.
 
 Minha experiência profissional combina o desenvolvimento de plataformas web robustas com a engenharia de dispositivos físicos (IoT/Firmware).
 
